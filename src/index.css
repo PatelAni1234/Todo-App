@@ -55,7 +55,7 @@ body::before {
 }
 
 .task-details {
-  display: grid;
+  display: flex;
 
   /* flex-direction: row; */
   align-items: center;
